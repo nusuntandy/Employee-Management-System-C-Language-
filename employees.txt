@@ -1,0 +1,25 @@
+6
+John Doe
+IT
+1000
+
+Sara Ali
+HR 
+1000
+
+Mike Ross
+Finance
+1000
+
+Strofor
+IT
+1000
+
+Valentin
+Sapat
+1000
+
+Inca1
+IT
+250000
+
